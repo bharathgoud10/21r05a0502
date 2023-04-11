@@ -1,3 +1,13 @@
+//MyApp class 
+
+public class MyApp {
+    public static void main(String[] args) {
+        Notepad ob=new Notepad();
+    }
+}
+
+
+//Notepad class which deals with GUI, implementation of notepad.
 package com.mycompany.notepad;
 import java.io.*;
 import javax.swing.*;
